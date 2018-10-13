@@ -2,7 +2,7 @@
 Learning node.js through w3schools
 
 
-## myfirst.js
+### myfirst.js | demo_module.js
 In command line, run
 ```
 node myfirst.js
